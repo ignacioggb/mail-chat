@@ -1,1 +1,2 @@
-# mail-chat
+# mail-mern
+MERN mailing app, with node mailer
